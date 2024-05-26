@@ -30,7 +30,7 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 Seed randoms
 '''
 
-def seed_everything(seed=1024):
+def seed_everything(seed=40):
     '''
     Set random seed for reproducible experiments
     Inputs: seed number 
