@@ -1,0 +1,17 @@
+{
+  "applier": 30527,
+  "cauterization": 30530,
+  "clipping": 30531,
+  "forceps": 30525,
+  "left-bottom": 30534,
+  "left-top": 30533,
+  "looping": 30523,
+  "monopolar": 30526,
+  "prograsp": 30524,
+  "retraction": 30529,
+  "right-bottom": 30536,
+  "right-top": 30535,
+  "stapler": 30528,
+  "suction": 30522,
+  "suturing": 30532
+}
