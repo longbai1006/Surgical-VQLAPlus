@@ -57,8 +57,8 @@ class VisualBertEmbeddings(nn.Module):
         mca_layers = 6               ##wgk
         self.mca_ed = MCA_ED(mca_hidden_size, mca_ffn_size, mca_layers)
 
-        self.conv36_visual = torch.nn.Conv1d(in_channels=36, out_channels=25, kernel_size=1)
-        self.conv36_text = torch.nn.Conv1d(in_channels=36, out_channels=25, kernel_size=1)
+        # self.conv36_visual = torch.nn.Conv1d(in_channels=36, out_channels=25, kernel_size=1)
+        # self.conv36_text = torch.nn.Conv1d(in_channels=36, out_channels=25, kernel_size=1)
 
     def forward(
         self,
