@@ -17,6 +17,8 @@
 
 </div>     
 
+## Checkpoint
+Update: Reproduced [checkpoint](https://drive.google.com/file/d/1mx2EPLSevTV-1o7ofou1wpVhWQr-nE_b/view?usp=sharing) with similar performance to the paper.
 
 ## Environment
 
